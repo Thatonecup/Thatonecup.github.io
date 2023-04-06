@@ -138,17 +138,9 @@ ul.main-menu li a.active {
 }
 
 /* Attempting to setup the Footer to stay at the bottom of the page
-   Includes the Commands Page-Container, Content-Wrap, and Footer
+   Includes the Commands Footer
 */
 
-page-container {
-  position: relative;
-  min-height: 100vh;
-}
-
-content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-}
 
 footer {
   position: absolute;
