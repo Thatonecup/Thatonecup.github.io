@@ -142,8 +142,8 @@ ul.main-menu li a.active {
 #footer {
   position: relative;
   padding: 10px 10px 0px 10px;
-  bottom: 0;
-  
-  height: 100px;
+  clear: both;
+  height: 200px;
+  margin-top: -200px;
   width: 100%;
 }
