@@ -144,6 +144,6 @@ ul.main-menu li a.active {
   padding: 10px 10px 0px 10px;
   bottom: 0;
   /* negative value of footer height */
-  height: 100px;
+  height: 180px;
   width: 100%;
 }
