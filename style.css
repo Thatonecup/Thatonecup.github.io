@@ -143,7 +143,6 @@ ul.main-menu li a.active {
   position: relative;
   padding: 10px 10px 0px 10px;
   bottom: 0;
-  /* negative value of footer height */
   height: 200px;
   width: 100%;
 }
