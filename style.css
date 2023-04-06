@@ -137,16 +137,18 @@ ul.main-menu li a.active {
   display:block;
 }
 
-page-container {
+/* Updating Footer with next 3 commanders (page-container, content-wrap, footer) */
+
+#page-container {
   position: relative;
   min-height: 100vh;
 }
 
-content-wrap {
+#content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
 }
 
-footer {
+#footer {
   position: absolute;
   bottom: 0;
   width: 100%;
