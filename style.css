@@ -139,8 +139,16 @@ ul.main-menu li a.active {
 
 /* Updating Footer with next 3 commanders (page-container, content-wrap, footer) */
 
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
 
-footer {
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
   position: absolute;
   bottom: 0;
   width: 100%;
