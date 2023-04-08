@@ -140,20 +140,19 @@ ul.main-menu li a.active {
 /* Updating Footer */
 
 footer {
-  background-color: #3b3b3b;
-  padding: 40px 80px;
+ background-color: #333;
+ padding: 40px 80px;
 }
 
 footer p{
  color: white;
- background-color: #333;
  text-align: center;
  margin-top: 20px;
- padding: 20px;
 }
 
 .social-links li{
  list-style: none;
+ align-items: center;
  display: inline-block;
  margin-left: 20px;
 }
