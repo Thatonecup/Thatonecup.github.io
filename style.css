@@ -140,7 +140,7 @@ ul.main-menu li a.active {
 /* Updating Footer */
 
 footer {
-  position: absolute;
+  position: relative;
   bottom: 0;
   left: 0;
   right: 0;
@@ -152,7 +152,7 @@ footer {
 }
 
  
-.footer-content{
+.footer-info{
  display: flex;
  align-items: center;
  justify-content: center;
