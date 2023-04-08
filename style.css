@@ -137,10 +137,19 @@ ul.main-menu li a.active {
   display:block;
 }
 
-/* Updating Footer with next 3 commanders (#footer) */
+/* Updating Footer */
 
 footer {
   padding: 10px 20px;
   background: #666;
 }
+
+/* Updating Horizontal Line */
+  .line {
+            border-bottom: 5px solid white;
+            margin-top: 5px;
+            width: 100%;
+        }
+
+
 
