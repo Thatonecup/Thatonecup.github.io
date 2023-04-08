@@ -140,14 +140,41 @@ ul.main-menu li a.active {
 /* Updating Footer */
 
 footer {
+  background-color: #3b3b3b;
+  padding: 40px 80px;
 }
 
-/* Updating Horizontal Line */
-  .line {
-            border-bottom: 5px solid white;
-            margin-top: 5px;
-            width: 100%;
-        }
+footer p{
+ color: #800;
+ text-align: center;
+ margin-top: 20px;
+}
 
+.social-links li{
+ list-style: none;
+ display: inline-block;
+ margin-left: 20px;
+}
 
+.social-links li a{
+  color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.5rem;
+  min-width: 40px;
+  height: 40px;
+}
+
+.social-links li a:link,
+.social-links li a:visited{
+ text-decoration: none; 
+ transition: all 0.5s;
+}
+
+.social-links li a:active,
+.social-links li a:hover{
+ background-color: #ececec; 
+ bordrer-radius: 50%;
+}
 
