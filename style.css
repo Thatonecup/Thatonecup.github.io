@@ -197,3 +197,9 @@ float: left;
  margin: 0 15px 0 0;
 }
 
+/* Indent Lines */
+
+.hangingindent {
+  padding-left: 22px ;
+  text-indent: -22px ;
+}
