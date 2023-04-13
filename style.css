@@ -63,6 +63,12 @@ p + p {
 
 }
 
+/* Justify text */
+
+.test {
+  text-align: justify;
+}
+
 
 /**
  * Quotes & Blockquotes
@@ -190,8 +196,3 @@ float: left;
  margin: 0 15px 0 0;
 }
 
-/* Justify text */
-
-.test {
-  text-align: justify;
-}
