@@ -64,6 +64,7 @@ p + p {
 }
 
 /* Justify text */
+/* to implement <p class = "test">  */
 
 .test {
   text-align: justify;
