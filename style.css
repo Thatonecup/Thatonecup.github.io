@@ -14,22 +14,6 @@ body {
   color: #FFFFFF;
 }
 
-.section{
-  background-color: #000;
-  display: flex;
-  justify-content: space-between;
-  padding: 40px;
-  width: 60%;
-  margin: 10rem auto 0 auto; 
-}
-
-.section img{
-  height: 250px;
-}
-
-.section p{
-  margin-right: 15px;
-}
 
 /**
  * Links
