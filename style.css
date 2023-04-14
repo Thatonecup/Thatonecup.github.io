@@ -197,8 +197,3 @@ float: left;
  margin: 0 15px 0 0;
 }
 
-/* Image left and text beside it */
-.tab {
-    display: inline-block;
-    margin-left: 4em;
-}
