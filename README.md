@@ -6,6 +6,4 @@ See Live Version
 
 
 
-Thank you to 
-https://github.com/cplmakerlab/simple-website-template
-which I used as a template:
+Thank you to Zirafa (https://github.com/cplmakerlab/simple-website-template) which I used as a template:
