@@ -1,9 +1,7 @@
-Working to update a personal website!
+This is a website template initially built off of the Ziraka's website template:
+(https://github.com/cplmakerlab/simple-website-template)
 
-See Live Version
+This can be used to create a simple, straightforward personal website.
+You can view my personal website using this template here:
+https://chasen-jeffries.github.io/#Home
 
-[https://chasen-jeffries.github.io/)](https://chasen-jeffries.github.io/)
-
-
-
-Thank you to Zirafa (https://github.com/cplmakerlab/simple-website-template) which I used as a template:
