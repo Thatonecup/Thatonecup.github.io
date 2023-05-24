@@ -12,8 +12,8 @@ You can view my personal website using this template here:
 ## Initial Steps:
 1.	Access your Github account by creating a new one or logging in.
 2.	Duplicate this repository (https://github.com/Chasen-Jeffries/Website_Template) to your own account (github.com/username/Website_Template) by forking it.
-3.	Make changes to the files within your forked repository, and observe as the updates reflect on your live website.
-4.	Visit your website at: https://username.github.io/Website_Template to see the changes.
+3.	Make changes to the files within your repository.
+4.	Visit your website to view live website at: https://username.github.io/Website_Template to see the changes.
 
 ## General Updates:
 - You can update the background information by downloading and replacing background image. (Note: this will not go in the images folder)
