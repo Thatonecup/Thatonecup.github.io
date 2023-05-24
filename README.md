@@ -1,3 +1,4 @@
+## Website Template
 This is a website template initially built off of the Ziraka's website template:
 (https://github.com/cplmakerlab/simple-website-template)
 
@@ -6,56 +7,58 @@ You can view my personal website using this template here:
 https://chasen-jeffries.github.io/#Home
 
 
-Documents Folder:
+## Documents Folder:
 Add PDF files for the following files as well as any additional documents you want to include:
-	Resume.pdf
-	Blog post1.pdf
-	Blog post2.pdf
+	- Resume.pdf
+	- Blog post1.pdf
+	- Blog post2.pdf
 
 
-Images Folder:
+## Images Folder:
 Add JPG files for the following images as well as any additional images you want to include:
-	Professional Image.JPG
+	- Professional Image.JPG
 
-Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
+- Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
 
-Index.html File Updates:
+## Index.html File Updates:
 When you see “Update: example”, this is telling you a location you are expected to update.
-Example,
-Template,	“Update: Full Name”
-Updated,	“John Smith”
+- Example,
+- Template, “Update: Full Name”
+- Updated, “John Smith”
 
 Information about what you are updating is visible this comment style:
 	<!--
 		This is a comment to update this in the template
 	-->
 
+
+## Updating Lines:
 The following lines require updating. When you open the file, you will see a comment above the lines you should update.
 
 <Page Setup:> This is the meta data used by search engines to ID the website> 
-Line 10: 
-Line 15: 
-Line 19: 
-Optional, Line 25
+- Line 10: 
+- Line 15: 
+- Line 19: 
+- Optional, Line 25
 
 <body> This is the data used for your website
-Line 53:
-Line 68: 
-Line 69:
-Line 81:
-Line 84:
-Line 96:
-Line 111:
-Line 112:
-Line 124:
-Line 133:
-Line 146:
-Line 147:
-Line 162:
+- Line 53:
+- Line 68: 
+- Line 69:
+- Line 81:
+- Line 84:
+- Line 96:
+- Line 111:
+- Line 112:
+- Line 124:
+- Line 133:
+- Line 146:
+- Line 147:
+- Line 162:
 
 <footer>
-Line 182:
-Line 183:
-Line 184:
-Line 185:
+- Line 182:
+- Line 183:
+- Line 184:
+- Line 185:
 
