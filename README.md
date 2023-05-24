@@ -28,6 +28,7 @@ Additionally, you can download an ico file if you want an icon image, but this w
 
 #### Information about what you are updating is visible this comment style:
 	<!--
+		Update:
 		This is a comment to update this in the template
 	-->
 
