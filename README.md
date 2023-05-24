@@ -21,8 +21,7 @@ Add JPG files for the following images as well as any additional images you want
 - Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
 
 ## Index.html File Updates:
-When you see “Update: example”, this is telling you a location you are expected to update.
-- Example,
+When you see “Update: example”, this is telling you a location you are expected to update. For example,
 - Template, “Update: Full Name”
 - Updated, “John Smith”
 
