@@ -56,7 +56,7 @@ Body: This is the data used for your website
 - Line 147:
 - Line 162:
 
-Fooer:
+Footer:
 - Line 182:
 - Line 183:
 - Line 184:
