@@ -23,8 +23,8 @@ Add JPG files for the following images as well as any additional images you want
 ## Index.html File Updates:
 
 #### When you see “Update: example”, this is telling you a location you are expected to update. For example,
-- Template, “Update: Full Name”
-- Updated, “John Smith”
+- Template: “Update: Full Name”
+- Updated: “John Smith”
 
 #### Information about what you are updating is visible this comment style:
 	<!--
