@@ -1,3 +1,5 @@
+
+
 ## Website Template
 This is a website template initially built off of Ziraka's website template:
 - https://github.com/cplmakerlab/simple-website-template
@@ -6,6 +8,12 @@ This can be used to create a simple, straightforward personal website.
 You can view my personal website using this template here:
 - https://chasen-jeffries.github.io/#Home
 
+
+## Initial Steps:
+1.	Access your Github account by creating a new one or logging in.
+2.	Duplicate this repository (https://github.com/Chasen-Jeffries/Website_Template) to your own account (github.com/username/Website_Template) by forking it.
+3.	Make changes to the files within your forked repository, and observe as the updates reflect on your live website.
+4.	Visit your website at: https://username.github.io/Website_Template to see the changes.
 
 ## General Updates:
 - You can update the background information by downloading and replacing background image. (Note: this will not go in the images folder)
