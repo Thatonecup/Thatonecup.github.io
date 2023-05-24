@@ -6,7 +6,7 @@ You can view my personal website using this template here:
 https://chasen-jeffries.github.io/#Home
 
 
-<u>Documents Folder:</u>
+Documents Folder:
 Add PDF files for the following files as well as any additional documents you want to include:
 	Resume.pdf
 	Blog post1.pdf
