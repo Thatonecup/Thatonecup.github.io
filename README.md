@@ -40,7 +40,7 @@ Page Setup: This is the meta data used by search engines to ID the website>
 - Line 19: 
 - Optional, Line 25
 
-Body: This is the data used for your website
+Body: This is the data used for the body of your website
 - Line 53:
 - Line 68: 
 - Line 69:
@@ -55,7 +55,7 @@ Body: This is the data used for your website
 - Line 147:
 - Line 162:
 
-Footer:
+Footer: This is the data used for the footer of your website
 - Line 182:
 - Line 183:
 - Line 184:
