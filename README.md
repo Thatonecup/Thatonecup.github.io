@@ -18,7 +18,7 @@ Add PDF files for the following files as well as any additional documents you wa
 Add JPG files for the following images as well as any additional images you want to include:
 - Professional Image.JPG
 
-- Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
+Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
 
 ## Index.html File Updates:
 
