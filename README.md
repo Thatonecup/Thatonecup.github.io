@@ -7,6 +7,10 @@ You can view my personal website using this template here:
 https://chasen-jeffries.github.io/#Home
 
 
+## General Updates:
+- You can update the background information by downloading and replacing background image. (Note: this will not go in the images folder)
+- You can update the icon image by downloading and replacing ico file. (Note: this will not go in the images folder)
+
 ## Documents Folder:
 Add PDF files for the following files as well as any additional documents you want to include:
 - Resume.pdf
@@ -18,7 +22,6 @@ Add PDF files for the following files as well as any additional documents you wa
 Add JPG files for the following images as well as any additional images you want to include:
 - Professional Image.JPG
 
-Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
 
 ## Index.html File Updates:
 
