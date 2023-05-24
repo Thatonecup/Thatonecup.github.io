@@ -21,17 +21,17 @@ Add JPG files for the following images as well as any additional images you want
 - Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
 
 ## Index.html File Updates:
-When you see “Update: example”, this is telling you a location you are expected to update. For example,
+
+#### When you see “Update: example”, this is telling you a location you are expected to update. For example,
 - Template, “Update: Full Name”
 - Updated, “John Smith”
 
-Information about what you are updating is visible this comment style:
+#### Information about what you are updating is visible this comment style:
 	<!--
 		This is a comment to update this in the template
 	-->
 
-
-## Updating Lines:
+### Updating Lines:
 The following lines require updating. When you open the file, you will see a comment above the lines you should update.
 
 Page Setup: This is the meta data used by search engines to ID the website> 
