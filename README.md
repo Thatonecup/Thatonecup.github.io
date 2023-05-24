@@ -1,5 +1,5 @@
 ## Website Template
-This is a website template initially built off of the Ziraka's website template:
+This is a website template initially built off of Ziraka's website template:
 (https://github.com/cplmakerlab/simple-website-template)
 
 This can be used to create a simple, straightforward personal website.
