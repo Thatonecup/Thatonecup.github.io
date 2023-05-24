@@ -35,13 +35,13 @@ Information about what you are updating is visible this comment style:
 ## Updating Lines:
 The following lines require updating. When you open the file, you will see a comment above the lines you should update.
 
-<Page Setup:> This is the meta data used by search engines to ID the website> 
+Page Setup: This is the meta data used by search engines to ID the website> 
 - Line 10: 
 - Line 15: 
 - Line 19: 
 - Optional, Line 25
 
-<body> This is the data used for your website
+Body: This is the data used for your website
 - Line 53:
 - Line 68: 
 - Line 69:
@@ -56,7 +56,7 @@ The following lines require updating. When you open the file, you will see a com
 - Line 147:
 - Line 162:
 
-<footer>
+Fooer:
 - Line 182:
 - Line 183:
 - Line 184:
