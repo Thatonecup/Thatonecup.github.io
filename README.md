@@ -9,14 +9,14 @@ https://chasen-jeffries.github.io/#Home
 
 ## Documents Folder:
 Add PDF files for the following files as well as any additional documents you want to include:
-	- Resume.pdf
-	- Blog post1.pdf
-	- Blog post2.pdf
+- Resume.pdf
+- Blog post1.pdf
+- Blog post2.pdf
 
 
 ## Images Folder:
 Add JPG files for the following images as well as any additional images you want to include:
-	- Professional Image.JPG
+- Professional Image.JPG
 
 - Additionally, you can download an ico file if you want an icon image, but this will not go in the images folder
 
@@ -34,7 +34,7 @@ Add JPG files for the following images as well as any additional images you want
 ### Updating Lines:
 The following lines require updating. When you open the file, you will see a comment above the lines you should update.
 
-Page Setup: This is the meta data used by search engines to ID the website> 
+Page Setup: This is the meta data used by search engines to ID the website
 - Line 10: 
 - Line 15: 
 - Line 19: 
